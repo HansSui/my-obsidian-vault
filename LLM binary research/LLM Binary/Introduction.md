@@ -1,7 +1,7 @@
 ### Obfuscation is widely needed in semantics-preserving transformations to increase structural complexity.
 ### It is needed to apply multiple techniques in RE. 
 
-![[Pasted image 20260924095933.png]]
+![[LLM obfuscation example.png]]
 #### Examples of how obfuscation works
 ### The underlying steps in this specific obfuscation:
 

@@ -1,7 +1,7 @@
 
 ## Performance accross diff compilation environment.
 ### Using CodeLlama and DeepSeek-R1 (excelled in previous experiments)
-![[Pasted image 20260929205446.png]]
+![[figure5 diff architecture.png]]
 
 ---
 ### CodeLlama: LOVE CISC architectures 

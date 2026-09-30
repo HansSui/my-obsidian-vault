@@ -13,7 +13,7 @@
 * #### Reasoning-optimized
 * #### Domain-specific expert
 * #### Task-specific
-![[Pasted image 20260925140742.png]]
+![[table4 Summary of BCDM.png]]
 #### The implementation of chatDEOB differs from the paper (GPT-3.5-Turo as the backbone in paper). But we use Qwen2.5-Coder-7B-Instruct.
 * #### Prioritize open-source model to avoid:
 	* #### High cost

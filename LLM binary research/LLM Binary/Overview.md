@@ -17,7 +17,7 @@
  * #### Dual-Perspective Semantic Fusion method for semantic preservation to verify behavioral consistency.
  * #### Token-wise delta entropy for code conciseness which measures the token-level uncertainty.
  * #### Halstead Complexity to assess code readability which eliminates the cognitive effort.
-![[Pasted image 20260924134556.png]]
+![[figure2 Workflow.png]]
 ---
 ### S3: Bridging the knowledge gap of LLM
 #### $\to$ Adopt in-context learning to mitigate the knowledge gap, better adapt to obsfucate binary. They introduce Recopilot, a pre-trained broad spectrum of binary code whereas ChatDEOB is for deobfuscation.

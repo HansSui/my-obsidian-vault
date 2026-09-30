@@ -14,14 +14,14 @@
 ---
 ### Semantic preservation:
 * #### Using Dual-perspective Semantic Fusion method
- ![[Pasted image 20260926073754.png]]
+ ![[Alg1 Dual-perspective semantic.png]]
 * #### Capture implicit semantics by using Qwen2.5-Coder-1.5B- Instruct
    * #### Extract explicit semantic features that are resilent to obfuscation and calculate Jaccard similarity.
    * #### We then integrate implicit and explicit score through a linear fusion strat (weighting by coefficient $a$).
    * #### Using 2 metrics :ROC- AUC, PR-AUC
 	   * #### ROC: Assess the global discriminative ability.
 	   * #### PR: Evaluates the robutness of positive identification.
-	![[Pasted image 20260926074252.png]]
+	![[figure3 Grid search for alpha.png]]
 ---
 ### Code Simplicity:
 * #### Token-wise delta entropy: Capture the incremental contribution of each token to the sequence's information complexity.
@@ -30,11 +30,11 @@
 	* #### Obfuscated
 	* #### Deobfuscated
 		#### $\to$ Measure the restoration of code simplicity.
-![[Pasted image 20260926075030.png]]
+![[math1.png]]
 #### Where P:
-![[Pasted image 20260926075110.png]]
+![[math2.png]]
 #### To calculate:
-![[Pasted image 20260926075141.png]]
+![[math3.png]]
 #### If it reduces, successful mitigation of obfuscated-induced complexity.
 ---
 ### Code readability:

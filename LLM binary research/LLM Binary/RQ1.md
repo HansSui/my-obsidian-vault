@@ -1,6 +1,6 @@
 ## Only using x64-architecture at O0 optimization level.
 ### Result: Depends less on the number of raw parameters and more on the synergy of reasoning capability and domain-specific expertise.
-![[Pasted image 20260926082432.png]]
+![[figure4 performanceof diff O-L.png]]
 
 ## The question: The overall performance of LLMs in binary code deobfuscation.
 ### Strong internal reasion mechanisms LLMs (DeepSeek-R1 and OpenAI-o1) outperform when handling high-entropy obfuscated code.

@@ -2,7 +2,7 @@
 
 ### High-quality reference, we construct source code and then apply to 6 obfuscation transformations.
 ### Using CodeLlama and DeepSeek-R1.
-![[Pasted image 20260929210404.png]]
+![[table7 In-context learning.png]]
 
 ---
 ## Report:

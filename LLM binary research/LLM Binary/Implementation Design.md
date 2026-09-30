@@ -37,7 +37,7 @@
 ---
 ### Transformation Combinations
 #### Using composite obfuscation $\gt$ isolated techniques. Which ranging from LV-1 to LV-6 (consists of all techniques above).
-![[Pasted image 20260925123302.png]]
+![[Table1 obfuscation transform.png]]
 ##### (Each designated obfuscators serve as an individual tools to obfuscate).
 #### The model has been optimized with 4 ISAs (ARM, MIPS, x86,x64) and 4 other optimization options (O0 $\to$ O3).
 #### $\to$ Removing symbols and debug information to better RE scenarios.
@@ -46,7 +46,7 @@
 #### Two stage verification pipeline:
 * ##### String matching to filter ineffective transformations.
 * ##### Utilizd GPT-4o as an automated verifier.
-![[Pasted image 20260925123941.png]]
+![[table3 LLM models employed.png]]
 ##### Each sample has an identification with the format:              ==<original pseudocode, obfuscation type, obfuscated pseudocode>.==
 ---
 ### The use of Pilot Study
@@ -54,7 +54,7 @@
 #### GPT-4o achieved an overall accuracy of 95.2%.
 #### The studies show a conservative bias where the model rejects valid one but rarely misclassifies the invalid one.
 #### $\to$ This attribution is desireable therefore take this as a gatekeeper for data construction.
-![[Pasted image 20260925131853.png]]
+![[table2 Pilot study.png]]
 
 ---
 ### Malware dataset

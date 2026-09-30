@@ -11,14 +11,12 @@
             "id": "cfde4c7d7834b8a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "LLM Binary/Multi-Dimensional assessment.md",
-                "mode": "source",
-                "source": false
+                "file": "picture/figure6 LLM and non-LLM.png"
               },
-              "icon": "lucide-file",
-              "title": "Multi-Dimensional assessment"
+              "icon": "lucide-image",
+              "title": "figure6 LLM and non-LLM"
             }
           }
         ]
@@ -201,33 +199,35 @@
   },
   "active": "cfde4c7d7834b8a4",
   "lastOpenFiles": [
+    "picture/table7 In-context learning.png",
+    "picture/figure5 diff architecture.png",
+    "picture/Table6 Diff LLM.png",
+    "picture/figure4 performanceof diff O-L.png",
+    "picture/Table5 overall performance.png",
+    "picture/Question.png",
+    "picture/math3.png",
+    "picture/math2.png",
+    "picture/math1.png",
+    "picture/figure3 Grid search for alpha.png",
+    "picture/Alg1 Dual-perspective semantic.png",
+    "LLM Binary/Deobsfucation by LLM.md",
+    "LLM Binary/Evaluation.md",
+    "LLM Binary/Background.md",
+    "LLM Binary/Multi-Dimensional assessment.md",
+    "picture",
     "LLM Binary/Introduction.md",
     "LLM Binary/Obfuscation binary Code.md",
-    "LLM Binary/Background.md",
     "LLM Binary/RQ4.md",
     "LLM Binary/Implementation Design.md",
-    "LLM Binary/Multi-Dimensional assessment.md",
     "LLM Binary/Overview.md",
     "LLM Binary/RQ1.md",
     "LLM Binary/RQ2.md",
     "LLM Binary/RQ3.md",
     "LLM Binary/RQ5.md",
-    "Pasted image 20260929211644.png",
     "Untitled.base",
-    "Pasted image 20260929210404.png",
-    "Pasted image 20260929205446.png",
-    "Pasted image 20260929205336.png",
     "2026-09-29.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "LLM Binary/Deobsfucation by LLM.md",
-    "LLM Binary/Evaluation.md",
-    "Pasted image 20260926082432.png",
-    "Pasted image 20260926081154.png",
-    "Pasted image 20260926081126.png",
-    "Pasted image 20260926075141.png",
-    "Pasted image 20260926075110.png",
-    "Pasted image 20260926075030.png",
     "Deobsfucation by LLM.md",
     "Background.md",
     "Introduction.md",
@@ -236,7 +236,6 @@
     "[.md",
     "Untitled.md",
     "Welcome.md",
-    "Untitled",
     "LLM Binary"
   ]
 }
