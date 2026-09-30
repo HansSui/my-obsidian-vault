@@ -11,12 +11,14 @@
             "id": "cfde4c7d7834b8a4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "picture/figure6 LLM and non-LLM.png"
+                "file": "LLM Binary/Discussion.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "figure6 LLM and non-LLM"
+              "icon": "lucide-file",
+              "title": "Discussion"
             }
           }
         ]
@@ -183,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,6 +201,11 @@
   },
   "active": "cfde4c7d7834b8a4",
   "lastOpenFiles": [
+    "LLM Binary/RQ5.md",
+    "LLM Binary/Discussion.md",
+    "LLM Binary/Obfuscation binary Code.md",
+    "LLM Binary/Overview.md",
+    "picture/figure6 LLM and non-LLM.png",
     "picture/table7 In-context learning.png",
     "picture/figure5 diff architecture.png",
     "picture/Table6 Diff LLM.png",
@@ -208,22 +215,17 @@
     "picture/math3.png",
     "picture/math2.png",
     "picture/math1.png",
-    "picture/figure3 Grid search for alpha.png",
-    "picture/Alg1 Dual-perspective semantic.png",
     "LLM Binary/Deobsfucation by LLM.md",
     "LLM Binary/Evaluation.md",
     "LLM Binary/Background.md",
     "LLM Binary/Multi-Dimensional assessment.md",
     "picture",
     "LLM Binary/Introduction.md",
-    "LLM Binary/Obfuscation binary Code.md",
     "LLM Binary/RQ4.md",
     "LLM Binary/Implementation Design.md",
-    "LLM Binary/Overview.md",
     "LLM Binary/RQ1.md",
     "LLM Binary/RQ2.md",
     "LLM Binary/RQ3.md",
-    "LLM Binary/RQ5.md",
     "Untitled.base",
     "2026-09-29.md",
     "Untitled 1.canvas",
