@@ -11,12 +11,14 @@
             "id": "cfde4c7d7834b8a4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "researchBinary/3808099.pdf"
+                "file": "LLM Binary/Deobsfucation by LLM.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "3808099"
+              "icon": "lucide-file",
+              "title": "Deobsfucation by LLM"
             }
           }
         ]
@@ -199,8 +201,8 @@
   },
   "active": "cfde4c7d7834b8a4",
   "lastOpenFiles": [
-    "researchBinary/Large_Language_Models_for_Malware_Detection_A_Systematic_Review_Taxonomy_and_Open_Challenges.pdf",
     "researchBinary/3808099.pdf",
+    "researchBinary/Large_Language_Models_for_Malware_Detection_A_Systematic_Review_Taxonomy_and_Open_Challenges.pdf",
     "researchBinary/2604.08083v1.pdf",
     "LLM Binary/Discussion.md",
     "researchBinary",
@@ -208,21 +210,21 @@
     "LLM Binary/RQ5.md",
     "LLM Binary/Obfuscation binary Code.md",
     "LLM Binary/Overview.md",
-    "picture/figure6 LLM and non-LLM.png",
-    "picture/table7 In-context learning.png",
-    "picture/figure5 diff architecture.png",
-    "picture/Table6 Diff LLM.png",
-    "picture/figure4 performanceof diff O-L.png",
-    "picture/Table5 overall performance.png",
-    "picture/Question.png",
-    "picture/math3.png",
-    "picture/math2.png",
-    "picture/math1.png",
+    "LLM Binary/picture/figure6 LLM and non-LLM.png",
+    "LLM Binary/picture/table7 In-context learning.png",
+    "LLM Binary/picture/figure5 diff architecture.png",
+    "LLM Binary/picture/Table6 Diff LLM.png",
+    "LLM Binary/picture/figure4 performanceof diff O-L.png",
+    "LLM Binary/picture/Table5 overall performance.png",
+    "LLM Binary/picture/Question.png",
+    "LLM Binary/picture/math3.png",
+    "LLM Binary/picture/math2.png",
+    "LLM Binary/picture/math1.png",
     "LLM Binary/Deobsfucation by LLM.md",
     "LLM Binary/Evaluation.md",
     "LLM Binary/Background.md",
     "LLM Binary/Multi-Dimensional assessment.md",
-    "picture",
+    "LLM Binary/picture",
     "LLM Binary/Introduction.md",
     "LLM Binary/RQ4.md",
     "LLM Binary/Implementation Design.md",
