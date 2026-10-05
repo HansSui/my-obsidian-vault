@@ -11,14 +11,12 @@
             "id": "cfde4c7d7834b8a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "LLM Binary/Discussion.md",
-                "mode": "source",
-                "source": false
+                "file": "researchBinary/3808099.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Discussion"
+              "icon": "lucide-file-text",
+              "title": "3808099"
             }
           }
         ]
@@ -201,8 +199,13 @@
   },
   "active": "cfde4c7d7834b8a4",
   "lastOpenFiles": [
-    "LLM Binary/RQ5.md",
+    "researchBinary/Large_Language_Models_for_Malware_Detection_A_Systematic_Review_Taxonomy_and_Open_Challenges.pdf",
+    "researchBinary/3808099.pdf",
+    "researchBinary/2604.08083v1.pdf",
     "LLM Binary/Discussion.md",
+    "researchBinary",
+    "Obfuscating",
+    "LLM Binary/RQ5.md",
     "LLM Binary/Obfuscation binary Code.md",
     "LLM Binary/Overview.md",
     "picture/figure6 LLM and non-LLM.png",
