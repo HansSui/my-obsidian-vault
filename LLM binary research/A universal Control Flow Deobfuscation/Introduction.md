@@ -70,6 +70,6 @@ $\to$ Essential for binary analysis & downstream applications.
 		- Mitigating hallucination risks
 -  *Comprehensive validation & Benchmark*:
 	- Comparison of our model with other up-to-date obfuscation tools available.
-	- *Tools:* Script-based, LLM Q&A-based, optimized compilation-based & program synsthesis-based solutions.
+	- *Tools:* Script-based, LLM Q&A-based, optimized compilation-based & program synthesis-based solutions,
 	$\to$ *Advantages* in static deobfuscation analysis.
 ---
