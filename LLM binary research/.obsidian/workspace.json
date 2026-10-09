@@ -11,32 +11,31 @@
             "id": "cfde4c7d7834b8a4",
             "type": "leaf",
             "state": {
+              "type": "bases",
+              "state": {
+                "file": "Untitled.base",
+                "viewName": "View"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7bb89a059ffc191f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19af10cbd17f3da6",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
                 "file": "researchBinary/3808099.pdf"
               },
               "icon": "lucide-file-text",
               "title": "3808099"
-            }
-          }
-        ]
-      },
-      {
-        "id": "40d76579eaf095d5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d01c6c2ca8206162",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A universal Control Flow Deobfuscation/Introduction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introduction"
             }
           }
         ]
@@ -197,6 +196,18 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "c6b056c17832c316",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Untitled.base"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
           }
         ],
         "currentTab": 5
@@ -217,51 +228,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d01c6c2ca8206162",
+  "active": "cfde4c7d7834b8a4",
   "lastOpenFiles": [
+    "A universal Control Flow Deobfuscation/Problem definition.md",
+    "Untitled.base",
     "researchBinary/3808099.pdf",
+    "A universal Control Flow Deobfuscation/picture/Fig1.png",
+    "A universal Control Flow Deobfuscation/picture",
     "A universal Control Flow Deobfuscation/Introduction.md",
-    "Obfuscation benchmark/Deobsfucation by LLM.md",
-    "researchBinary/Large_Language_Models_for_Malware_Detection_A_Systematic_Review_Taxonomy_and_Open_Challenges.pdf",
+    "A universal Control Flow Deobfuscation/Background.md",
+    "Obfuscation benchmark/11_Discussion.md",
+    "Obfuscation benchmark/05b_Evaluation_Setup.md",
+    "Background.md",
+    "Obfuscation benchmark/05_Deobfuscation_by_LLM.md",
+    "Obfuscation benchmark/04_Multi_Dimensional_Assessment.md",
+    "Obfuscation benchmark/03_Implementation_Design.md",
+    "Obfuscation benchmark/02_Background.md",
+    "Obfuscation benchmark/01_Overview.md",
+    "Obfuscation benchmark/00_Introduction.md",
+    "Obfuscation benchmark/00_INDEX.md",
     "researchBinary/2604.08083v1.pdf",
+    "Obfuscation benchmark/picture/Alg1 Dual-perspective semantic.png",
+    "Obfuscation benchmark/10_RQ5_Malware_Generalization.md",
+    "Obfuscation benchmark/09_RQ4_In_Context_Learning.md",
+    "Obfuscation benchmark/08_RQ3_Compilation_Environments.md",
+    "Obfuscation benchmark/07_RQ2_Obfuscation_Levels.md",
+    "Obfuscation benchmark/picture/table2 Pilot study.png",
+    "Obfuscation benchmark/picture/table3 LLM models employed.png",
+    "Obfuscation benchmark/picture/table4 Summary of BCDM.png",
+    "Obfuscation benchmark/picture/table7 In-context learning.png",
+    "Obfuscation benchmark/picture/Table6 Diff LLM.png",
+    "Obfuscation benchmark/picture/Table5 overall performance.png",
+    "Obfuscation benchmark/picture/Table1 obfuscation transform.png",
+    "Obfuscation benchmark/picture/figure6 LLM and non-LLM.png",
+    "Obfuscation benchmark/06_RQ1_Overall_Performance.md",
+    "researchBinary/Large_Language_Models_for_Malware_Detection_A_Systematic_Review_Taxonomy_and_Open_Challenges.pdf",
+    "Obfuscation benchmark/Deobsfucation by LLM.md",
     "Obfuscation benchmark/Discussion.md",
     "researchBinary",
     "A universal Control Flow Deobfuscation",
     "Obfuscation benchmark/RQ5.md",
     "Obfuscation benchmark/Obfuscation binary Code.md",
     "Obfuscation benchmark/Overview.md",
-    "Obfuscation benchmark/picture/figure6 LLM and non-LLM.png",
-    "Obfuscation benchmark/picture/table7 In-context learning.png",
-    "Obfuscation benchmark/picture/figure5 diff architecture.png",
-    "Obfuscation benchmark/picture/Table6 Diff LLM.png",
-    "Obfuscation benchmark/picture/figure4 performanceof diff O-L.png",
-    "Obfuscation benchmark/picture/Table5 overall performance.png",
-    "Obfuscation benchmark/picture/Question.png",
-    "Obfuscation benchmark/picture/math3.png",
-    "Obfuscation benchmark/picture/math2.png",
-    "Obfuscation benchmark/picture/math1.png",
     "Obfuscation benchmark/Evaluation.md",
     "Obfuscation benchmark/Background.md",
-    "Obfuscation benchmark/Multi-Dimensional assessment.md",
     "Obfuscation benchmark/picture",
-    "Obfuscation benchmark/Introduction.md",
-    "Obfuscation benchmark/RQ4.md",
-    "Obfuscation benchmark/Implementation Design.md",
-    "Obfuscation benchmark/RQ1.md",
-    "Obfuscation benchmark/RQ2.md",
-    "Obfuscation benchmark/RQ3.md",
-    "Untitled.base",
-    "2026-09-29.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Deobsfucation by LLM.md",
-    "Background.md",
-    "Introduction.md",
-    "Introduction to deobfuscation.md",
-    "().md",
-    "[.md",
-    "Untitled.md",
-    "Welcome.md",
     "Obfuscation benchmark"
   ]
 }

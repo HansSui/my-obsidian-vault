@@ -13,26 +13,26 @@ alias:
 ---
 ---
 ## The use of Code obfuscation
-- *Uses*: For codebase protection like IP protection or malicious code protection by hackers.
+- ***Uses*: For codebase protection like IP protection or malicious code protection by hackers.
 	$\to$ Making it the complex version  - by making it *Difficult*. 
-- *Major focus*: Complicating the program's control flow structure.
-- *Skill includes*: Opaque predicates (OP), control-flow flattening (CFF) & BCF.
+- ***Major focus*: Complicating the program's control flow structure.
+- ***Skill includes*: Opaque predicates (OP), control-flow flattening (CFF) & BCF.
 	$\to$ Interfere with static analysis, reduce readability.
 $\to$ Essential for binary analysis & downstream applications.
 ---
 ## Struggling deobfuscation tools:
-- *Problems*: Struggle to provide generic deobfuscation - Only within their scopes (any states-of-the-art algo they fail miserably).
-- *Good News*: More methods like
+- ***Problems*: Struggle to provide generic deobfuscation - Only within their scopes (any states-of-the-art algo they fail miserably).
+- ***Good News*: More methods like
 	- *Sympolic execution* (SE)
 	- *Abstract interpretation* (AI)
 	- *Program synthesis* (PS)
 	- *SMT solvers* (SMT)
-- *Bad News:* Lack of generality
-	- *SE & AI*: Handling data-flow obfuscations (limited effectiveness beyond scope).
-	- *AI*: Handling the continuous evolution of OP.
-	- *SMT*: Can detect false path vs sensitive out-of-distribution code 
-		- Like pointer aliasing & MBA expression. 
-		- Ineffective against CFF.
+- ***Bad News:* Lack of generality
+	-** **SE & AI*: Handling data-flow obfuscations (limited effectiveness beyond scope).
+	- ***AI*: Handling the continuous evolution of OP.
+	- ***SMT*: Can detect false path vs sensitive out-of-distribution code 
+		- **Like pointer aliasing & MBA expression. 
+		- **Ineffective against CFF.
 ---
 ## LLM & LUCID to code deobfuscation.
 ### Comparison
@@ -57,19 +57,19 @@ $\to$ Essential for binary analysis & downstream applications.
   * Suppressed **>99%** of bogus path inflation
 ---
 ## Contribution:
-- *Formalization of Control flow Task & Metrics*: 
+- **==*Formalization of Control flow Task & Metrics*==: 
 	- Guild the integration of LLM.
 	- Evaluate both code obfuscation & performance of the models.
-- *Novel Framework with controllable LLM intervention*:
-	- Leverage linear-time LLM access
+- **==*Novel Framework with controllable LLM intervention*:==
+	- **Leverage linear-time LLM access
 	$\to$ *Derive mapping rules* & guild non-linear execution.
-	- Reconstruct concise control flow graphs.
+	- **Reconstruct concise control flow graphs.
 	$\to$ Controllable and trustworthy intervention of LLM.
-	- Adapting to diverse obfuscation techniques based on:
-		- Intrinsic semantics
-		- Mitigating hallucination risks
--  *Comprehensive validation & Benchmark*:
-	- Comparison of our model with other up-to-date obfuscation tools available.
-	- *Tools:* Script-based, LLM Q&A-based, optimized compilation-based & program synthesis-based solutions,
+	- **Adapting to diverse obfuscation techniques based on:
+		- **Intrinsic semantics
+		- **Mitigating hallucination risks
+-  ***Comprehensive validation & Benchmark*:
+	- **Comparison of our model with other up-to-date obfuscation tools available.
+	- ***Tools:* Script-based, LLM Q&A-based, optimized compilation-based & program synthesis-based solutions,
 	$\to$ *Advantages* in static deobfuscation analysis.
 ---
