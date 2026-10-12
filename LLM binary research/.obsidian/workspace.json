@@ -8,26 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cfde4c7d7834b8a4",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled.base",
-                "viewName": "View"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled"
-            }
-          }
-        ]
-      },
-      {
-        "id": "7bb89a059ffc191f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "19af10cbd17f3da6",
+            "id": "c666155e97f57c9e",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -228,15 +209,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cfde4c7d7834b8a4",
+  "active": "c666155e97f57c9e",
   "lastOpenFiles": [
-    "A universal Control Flow Deobfuscation/Problem definition.md",
-    "Untitled.base",
     "researchBinary/3808099.pdf",
+    "A universal Control Flow Deobfuscation/Problem definition.md",
+    "A universal Control Flow Deobfuscation/Background.md",
+    "Obfuscation benchmark/10_RQ5_Malware_Generalization.md",
+    "Obfuscation benchmark/09_RQ4_In_Context_Learning.md",
+    "Obfuscation benchmark/00_INDEX.md",
+    "Obfuscation benchmark/00_Introduction.md",
+    "Obfuscation benchmark/01_Overview.md",
+    "researchBinary/2604.08083v1.pdf",
+    "researchBinary/Large_Language_Models_for_Malware_Detection_A_Systematic_Review_Taxonomy_and_Open_Challenges.pdf",
+    "A universal Control Flow Deobfuscation/picture/Fig2.png",
+    "Pasted image 20261010080002.png",
+    "A universal Control Flow Deobfuscation/Introduction.md",
+    "Untitled.base",
     "A universal Control Flow Deobfuscation/picture/Fig1.png",
     "A universal Control Flow Deobfuscation/picture",
-    "A universal Control Flow Deobfuscation/Introduction.md",
-    "A universal Control Flow Deobfuscation/Background.md",
     "Obfuscation benchmark/11_Discussion.md",
     "Obfuscation benchmark/05b_Evaluation_Setup.md",
     "Background.md",
@@ -244,13 +234,7 @@
     "Obfuscation benchmark/04_Multi_Dimensional_Assessment.md",
     "Obfuscation benchmark/03_Implementation_Design.md",
     "Obfuscation benchmark/02_Background.md",
-    "Obfuscation benchmark/01_Overview.md",
-    "Obfuscation benchmark/00_Introduction.md",
-    "Obfuscation benchmark/00_INDEX.md",
-    "researchBinary/2604.08083v1.pdf",
     "Obfuscation benchmark/picture/Alg1 Dual-perspective semantic.png",
-    "Obfuscation benchmark/10_RQ5_Malware_Generalization.md",
-    "Obfuscation benchmark/09_RQ4_In_Context_Learning.md",
     "Obfuscation benchmark/08_RQ3_Compilation_Environments.md",
     "Obfuscation benchmark/07_RQ2_Obfuscation_Levels.md",
     "Obfuscation benchmark/picture/table2 Pilot study.png",
@@ -259,10 +243,7 @@
     "Obfuscation benchmark/picture/table7 In-context learning.png",
     "Obfuscation benchmark/picture/Table6 Diff LLM.png",
     "Obfuscation benchmark/picture/Table5 overall performance.png",
-    "Obfuscation benchmark/picture/Table1 obfuscation transform.png",
-    "Obfuscation benchmark/picture/figure6 LLM and non-LLM.png",
     "Obfuscation benchmark/06_RQ1_Overall_Performance.md",
-    "researchBinary/Large_Language_Models_for_Malware_Detection_A_Systematic_Review_Taxonomy_and_Open_Challenges.pdf",
     "Obfuscation benchmark/Deobsfucation by LLM.md",
     "Obfuscation benchmark/Discussion.md",
     "researchBinary",

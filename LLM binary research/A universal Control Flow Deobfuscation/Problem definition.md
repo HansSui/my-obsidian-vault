@@ -14,11 +14,11 @@ $\to$ A well-programmed program has its $P_{tfps}$ as close as $P_{rfps}$.
 
 ---
 ## The idea:
-Altering the V and E $\to$ Making $P_{tfps} (obfs)$'s path not in $P_{rfps}(obfs)$.
+**Altering the V and E $\to$ Making $P_{tfps} (obfs)$'s path not in $P_{rfps}(obfs)$.
 
 ---
 ## Goals:
-Reconstructing a minimal topological path set $P_{tfps}(optim)$ from $CFG_{obf}$ such that $P_{rfps}$ is preserve (in $P_{tfps}$).
+**Reconstructing a minimal topological path set $P_{tfps}(optim)$ from $CFG_{obf}$ such that $P_{rfps}$ is preserve (in $P_{tfps}$).
 
 ---
 ## Topology
@@ -52,3 +52,17 @@ Sovled?
 $\to$ Formal model for $P_{tfps}$ size provides  rigorous means to quantify the impact by altering path complexity.
 - **BCF: artificial branches $\to$ increasing path complexity linearly via $a_v$ term.
 - **CFF: $N$ basic blocks into a single SCC, elevating the $B_v$ parameter from 1 to $N$ .
+- **Complexity patterns: seen in virtualization-based obfuscators.
+- **Path explosion: dynamic instruction mapping.
+---
+## Main problem 
+2 Problems remaining:
+- **How to generate its Runtime Feasible Path Set ($P_{rfps}$)
+- **How to generate the minimum $P_{tfps}$ where $\alpha$ is a hyperparameter, given the $P_{rfps}$.
+
+![[Fig2.png]]
+**Given the algorithm:
+$$
+\mathop{\mathrm{argmin}}_{\text{CFG}_{\text{optim}}=(V',E')} \left\{ \alpha \times (|P_{\text{tfps}}| - |P_{\text{rfps}}|) + |V'| + |E'| \right\}
+$$
+
